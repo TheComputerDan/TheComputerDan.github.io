@@ -10,10 +10,13 @@
 .head
 {
  text-align: center;
- color: lite blue;
 }
 .paragraphspace
 {
  padding-left: 150px;
  padding-right: 150px;
+}
+h1
+{
+color: white;	
 }
